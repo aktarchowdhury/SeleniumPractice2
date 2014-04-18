@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="HomeWorkJava18" project="SeleniumJava19" tests="2" started="2" failures="0" errors="0" ignored="0">
+  <testsuite name="com.aktar.sele18.HomeWorkJava18" time="0.002">
+    <testcase name="Test2" classname="com.aktar.sele18.HomeWorkJava18" time="0.001"/>
+    <testcase name="Test1" classname="com.aktar.sele18.HomeWorkJava18" time="0.001"/>
+  </testsuite>
+</testrun>

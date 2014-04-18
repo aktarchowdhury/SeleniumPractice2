@@ -22,7 +22,7 @@ public class HomeWorkJava18 {
 	public void Test1() {
 		System.out.println("type in username");
 		System.out.println("type in password");
-		System.out.println("click on sign in to open email page");
+		System.out.println("click on sign in and opens email page");
 	}
 
 	@Test

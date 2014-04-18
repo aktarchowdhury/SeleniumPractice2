@@ -9,7 +9,7 @@ public class HomeWorkJava21 {
 			key.setSpeed("3000");
 			key.windowMaximize();
 			key.type("email", "aktarchowdhury7@gmail.com");
-			key.type("pass", "aa7867775");
+			key.type("pass", "aa786786");
 			key.click("log in");
 			key.stop();
 			key.close();
