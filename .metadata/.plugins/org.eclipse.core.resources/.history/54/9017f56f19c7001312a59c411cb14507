@@ -4,7 +4,7 @@ import com.thoughtworks.selenium.DefaultSelenium;
 
 public class HomeWorkJava21 {
 	public static void main(String[] args) {
-			DefaultSelenium key=new DefaultSelenium("localhost",4444,"firefox","https://www.facebook.com/");
+			DefaultSelenium key=new DefaultSelenium("Localhost",4444,"Firefox","https://www.facebook.com/");
 			key.open("https://www.facebook.com/");
 			key.setSpeed("3000");
 			key.windowMaximize();
