@@ -3,7 +3,6 @@ INDEX VERSION 1.126+C:\Users\aktar\Documents\SeleniumPractice2\.metadata\.plugin
 3337120463.index
 3596043789.index
 109952055.index
-4108727661.index
 3757694367.index
 3630006445.index
 2321741224.index
@@ -18,8 +17,6 @@ INDEX VERSION 1.126+C:\Users\aktar\Documents\SeleniumPractice2\.metadata\.plugin
 1090196676.index
 665635932.index
 1891200098.index
-1299022128.index
-4155206848.index
 1843058863.index
 1483779067.index
 255586332.index
@@ -27,7 +24,6 @@ INDEX VERSION 1.126+C:\Users\aktar\Documents\SeleniumPractice2\.metadata\.plugin
 3864548649.index
 4089335052.index
 2519900582.index
-4041092966.index
 366892836.index
 203824195.index
 1559140740.index
@@ -39,13 +35,9 @@ INDEX VERSION 1.126+C:\Users\aktar\Documents\SeleniumPractice2\.metadata\.plugin
 1496940113.index
 1765877509.index
 2017247370.index
-3133528496.index
-1498219845.index
 1541029962.index
 2438948287.index
 4101180800.index
-1995173708.index
-30765161.index
 1168374255.index
 355969811.index
 292133792.index
@@ -54,21 +46,16 @@ INDEX VERSION 1.126+C:\Users\aktar\Documents\SeleniumPractice2\.metadata\.plugin
 2203843350.index
 214950004.index
 450750521.index
-1697886153.index
 4013750352.index
 139867141.index
-163172794.index
 1904905377.index
 2514125449.index
 180789600.index
 1100631925.index
 1450863963.index
 3536417906.index
-1115467115.index
 1772673842.index
-3065916431.index
 469593983.index
-305854171.index
 629765225.index
 1052605196.index
 4107503893.index
@@ -77,4 +64,3 @@ INDEX VERSION 1.126+C:\Users\aktar\Documents\SeleniumPractice2\.metadata\.plugin
 3778384176.index
 78466278.index
 1884328021.index
-3974580528.index
